@@ -1,0 +1,16 @@
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\XWingTM.exe
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\XWingTM.pdb
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.Properties.Resources.resources
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.exe
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.pdb
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.torunamentManager.resources
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.Players.resources
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.Tournaments.resources
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.Print.resources
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\MongoDB.Bson.dll
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\MongoDB.Driver.dll
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\MongoDB.Bson.xml
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\bin\Debug\MongoDB.Driver.xml
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\CELESTRON\SUNO\SUNO_PJ\XWingTM\XWingTM\obj\x86\Debug\XWingTM.Views.PlayerEdit.resources
